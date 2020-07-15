@@ -14,7 +14,7 @@ My favourite languages:
  - Ruby because the syntax is the best amongst high level languages
  - Javascript because it is quite powerful and has a ton of libraries
 
-Languages I am familiar with:
+Technologies I am familiar with:
 
  - Rust
  - Ruby
@@ -25,7 +25,7 @@ Languages I am familiar with:
  - Vim Script
  - C
 
-Languages I plan to learn in the future:
+Technologies I plan to learn in the future:
 
  - Dart mainly because of flutter
  - Haskell because why not ;)
