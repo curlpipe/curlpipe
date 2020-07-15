@@ -41,6 +41,6 @@ Languages I plan to learn in the future:
 
 Languages I do not like so much:
 
- - Python
- - Java
- - C++
+ - Python because of its pathetic speeds
+ - Java because of its forced OOP
+ - C++ because of its evil syntax
