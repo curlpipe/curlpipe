@@ -6,7 +6,7 @@ What I've built:
  - `GWS` A weather display for showing forecasts for people in remote regions of the UK. Written in Python.
  - `Peacock` Helped contribute to a privacy-first browser written in ElectronJS.
  - (In progress, expected completion by 2021) `Ox`, a simple text editor with IDE like features built in. Written in Rust.
- - (In progress, expected completion by 2021) `Gaiko`, a social media application built to help me learn the MERN stack. Written in JS.
+ - (In progress, expected completion by 2021) `Inflect`, a music recommendation application built to help me learn the MERN stack. Written in JS.
  - (Concept, expected to commence in 2021) `Telekon`, a privacy-respecting online music player for all platforms. Written in JS on desktop and web and dart for mobile devices.
 
 My favourite languages:
