@@ -32,7 +32,6 @@
  [<img src="https://crystal-lang.org/images/icon.png" width="50px" />][crystal]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nim-logo.png" width="50px" />][nim]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="50px" />][dart]
-
  [<img src="https://dominicm.com/wp-content/uploads/2015/11/arch-linux.png" width="50px" />][arch]
  [<img src="https://pbs.twimg.com/profile_images/1145449163/logo.png" width="50px" />][i3wm]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50px" />][vim]
