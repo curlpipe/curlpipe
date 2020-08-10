@@ -67,7 +67,7 @@
 [i3wm]: https://i3wm.org
 [git]: https://git-scm.org
 [react]: https://reactjs.org
-[svelte]: https://sveltejs.com
+[svelte]: http://sveltejs.com
 [haskell]: https://haskell.org/
 [docker]: https://docker.com
 [graphql]: https://graphql.org
