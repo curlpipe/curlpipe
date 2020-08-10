@@ -54,7 +54,7 @@
 
 <br>
 
-[![Curlpipe's github stats](https://github-readme-stats.vercel.app/api?username=curlpipe)](https://github.com/anuraghazra/github-readme-stats)
+[![Curlpipe's github stats](https://github-readme-stats.vercel.app/api?username=curlpipe&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [rust]: https://rust-lang.org
 [ruby]: http://ruby-lang.org/en
