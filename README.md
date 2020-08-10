@@ -43,8 +43,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="50px">
  <img src="https://start.jcolemorrison.com/content/images/2017/01/docker-logo.png" width="50px">
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/499px-Svelte_Logo.svg.png" width="50px">
+ <img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px">
  <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="50px">
 </div>
+
+<br>
 
 [![Curlpipe's github stats](https://github-readme-stats.vercel.app/api?username=curlpipe)](https://github.com/anuraghazra/github-readme-stats)
