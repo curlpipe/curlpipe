@@ -2,11 +2,11 @@
 
 ### What I've built:
 
- - `SAHL` a language that transpiles to HTML and abstracts a lot of syntax, removing hurdles for writing markup. Written in Ruby.
+ - [SAHL](https://github.com/curlpipe/sahl) a language that transpiles to HTML and abstracts a lot of syntax, removing hurdles for writing markup. Written in Ruby.
  - `GWS` A weather display for showing forecasts for people in remote regions of the UK. Written in Python.
- - `Peacock` Helped contribute to a privacy-first browser written in ElectronJS.
- - (In progress, expected completion by 2021) `Ox`, a simple text editor with IDE like features built in. Written in Rust.
- - (Concept, expected to commence in 2021) `Telekon`, a privacy-respecting online music player for all platforms. Written in JS on desktop and web and dart for mobile devices.
+ - [Peacock](https://github.com/peacockweb/peacock) Helped contribute to a privacy-first browser written in ElectronJS.
+ - (In progress) [Ox](https://github.com/curlpipe/ox), a simple text editor with IDE like features built in. Written in Rust.
+ - (Concept) `Telekon`, a privacy-respecting online music player for all platforms. Written in JS on desktop and web and dart for mobile devices.
 
 ### My favourite languages:
 
