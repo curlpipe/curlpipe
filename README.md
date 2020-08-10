@@ -1,6 +1,6 @@
 ## Hi I'm curlpipe!
 
-What I've built:
+### What I've built:
 
  - `SAHL` a language that transpiles to HTML and abstracts a lot of syntax, removing hurdles for writing markup. Written in Ruby.
  - `GWS` A weather display for showing forecasts for people in remote regions of the UK. Written in Python.
@@ -8,7 +8,7 @@ What I've built:
  - (In progress, expected completion by 2021) `Ox`, a simple text editor with IDE like features built in. Written in Rust.
  - (Concept, expected to commence in 2021) `Telekon`, a privacy-respecting online music player for all platforms. Written in JS on desktop and web and dart for mobile devices.
 
-My favourite languages:
+### My favourite languages:
 
 <div>
  <img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px">
@@ -16,7 +16,7 @@ My favourite languages:
  <img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px">
 </div>
 
-Technologies I am familiar with:
+### Technologies I am familiar with:
 
 <div>
  <img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px">
@@ -36,7 +36,7 @@ Technologies I am familiar with:
  <img src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png" width="50px">
 </div>
 
-Technologies I plan to learn in the future:
+### Technologies I plan to learn in the future:
 
 <div>
  <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" width="50px">
