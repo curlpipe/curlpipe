@@ -62,7 +62,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [ts]: https://www.typescriptlang.org/
 [python]: https://python.org
-[vim]: http://vim.org
+[vim]: http://www.vim.org
 [arch]: https://archlinux.org
 [i3wm]: https://i3wm.org
 [git]: https://git-scm.org
