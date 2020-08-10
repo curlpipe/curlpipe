@@ -58,7 +58,7 @@
 [![Curlpipe's github stats](https://github-readme-stats.vercel.app/api?username=curlpipe)](https://github.com/anuraghazra/github-readme-stats)
 
 [rust]: https://rust-lang.org
-[ruby]: https://ruby-lang.org/en
+[ruby]: http://ruby-lang.org/en
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [ts]: https://www.typescriptlang.org/
 [python]: https://python.org
