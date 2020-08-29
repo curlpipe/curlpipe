@@ -13,8 +13,8 @@
 
  [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][rust]
  [<img src="https://bgasparotto.com/wp-content/uploads/2016/03/ruby-logo.png" width="50px" />][ruby]
- [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][js]
-
+ [<img src="https://insidehpc.com/wp-content/uploads/2016/01/Python-logo-notext.svg_.png" width="50px" />][python]
+ 
 </div>
 
 ### Technologies I am familiar with:
