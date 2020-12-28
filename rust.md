@@ -138,6 +138,7 @@ Here are a list of websites to help you learn Rust:
 - Easy Rust - https://fongyoong.github.io/easy_rust/
 - Rustlings - https://github.com/rust-lang/rustlings/blob/main/README.md
 - TensorProgramming Rust Videos - https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW
+- Learning Rust - https://learning-rust.github.io/
 
 There are also plenty of tutorials for building things by example (I sorted them roughly with the easiest closer to the top):
 
