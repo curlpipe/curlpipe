@@ -38,13 +38,13 @@ fn main() {
 }
 ```
 
-![image.png](https://i.postimg.cc/tZCQCt2J/image.png)
+![](https://i.postimg.cc/BvQnBrc2/image.png)
 
 Notice that part at the bottom? `For more information about this error, try rustc --explain E0381?`
 
 Let's try running that command!
 
-![](https://i.postimg.cc/2bvvyhyp/image.png)
+![](https://i.postimg.cc/SsHQqJ0G/image.png)
 
 You see that it gives a lot of information about the language and more detail on why the code errors.
 It makes debugging errors really nice and simple.
