@@ -3,9 +3,7 @@
 ### What I've built:
 
  - [SAHL](https://github.com/curlpipe/sahl) a markup language that transpiles to HTML and abstracts a lot of syntax, removing hurdles for writing markup. Written in Ruby.
- - (In progress) [Ox](https://github.com/curlpipe/ox), an advanced text editor with IDE like features built in. Written in Rust.
- - (Concept) `Resonance`, a privacy-respecting online music player for all platforms. Written in JS on desktop and web.
- - (Concept) `Morris`, a Mobile development platform written in Rust with simplicity above everything.
+ - [Ox](https://github.com/curlpipe/ox), an advanced text editor with IDE like features built in. Written in Rust.
 
 ### My favourite languages:
 
