@@ -1,4 +1,4 @@
-## Hi I'm curlpipe!
+## Hi I'm Luke!
 
 ### What I'm building
 I'm currently trying to build a compiler for a high level language.
