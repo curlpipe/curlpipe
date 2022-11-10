@@ -1,5 +1,7 @@
 ## Hi I'm Luke!
 
+![Profile views](https://gpvc.arturio.dev/curlpipe)
+
 ### What I'm building
 I'm currently trying to build a compiler for a high level language.
 
