@@ -11,8 +11,8 @@
 
 ## Github Stats  
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=curlpipe&show_icons=true&count_private=true&hide_border=true" align="center" height="200px"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlpipe&hide_border=true&layout=compact" align="center" height="200px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=curlpipe&show_icons=true&count_private=true&hide_border=true" align="center" height="150px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlpipe&hide_border=true&layout=compact" align="center" height="150px"/>
 </div>
 
 ## My Technologies
