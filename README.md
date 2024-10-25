@@ -1,7 +1,8 @@
 # <div align="left">Hi, I'm Luke 👋</div>  
 
 <br>
-<div align="left">I have an interest in writing reliable software and teaching. I have recently been getting into AI and Machine Learning.</div>  
+<div align="left">I have an interest in writing reliable software and teaching. <br>I have recently been getting into AI and Machine Learning.</div> 
+<br>
 <div align="left">📝 I'm currently working on Ox, the simple but flexible code editor 🐂</div>  
 
 <br>  
