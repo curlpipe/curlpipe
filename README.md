@@ -6,13 +6,13 @@
 <div align="left">📝 I'm currently working on Ox, the simple but flexible code editor 🐂</div>  
 
 <br>  
-<div align="left"><img src="https://komarev.com/ghpvc/?username=curlpipe&&style=for-the-badge" align="left" /></div>
+<div align="left"><img src="https://komarev.com/ghpvc/?username=curlpipe&&style=for-the-badge&color=blueviolet" align="left" /></div>
 <br>
 
 ## Github Stats  
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=curlpipe&show_icons=true&count_private=true&hide_border=true" align="center" height="150px"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlpipe&hide_border=true&layout=compact" align="center" height="150px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=curlpipe&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" align="center" height="150px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlpipe&hide_border=true&layout=compact&theme=github_dark_dimmed" align="center" height="150px"/>
 </div>
 
 ## My Technologies
