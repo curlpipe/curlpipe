@@ -8,7 +8,10 @@
 <div align="left"><img src="https://komarev.com/ghpvc/?username=curlpipe&&style=for-the-badge&color=blueviolet" align="left" /></div>
 
 <br>
+<br>
+
 <div align="left">📝 I'm currently working on Ox, the simple but flexible code editor 🐂 :</div>
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/f58709c9-5132-4cba-ac6d-ec3eac18de7d)
