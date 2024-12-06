@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<div align="left">📝 I'm currently working on Ox, the simple but flexible code editor 🐂 :</div>
+<div align="left">📝 I'm currently working on <a href="https://github.com/curlpipe/ox">Ox</a>, the simple but flexible code editor 🐂 :</div>
 
 <br>
 
